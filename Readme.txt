@@ -1,4 +1,4 @@
-# PORTFÓLIO PESSOAL
+#PORTFÓLIO PESSOAL
 
 Fiz esse primeiro portfólio como parte de uma atividade da faculdade na matéria de Desenvolvimento Front End, onde a ideia foi explorar as funcionalidades e ferramentas do framework Bootstrap.
 
